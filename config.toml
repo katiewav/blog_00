@@ -6,8 +6,8 @@ theme = "hugo-theme-codex-master"
 # Override these settings with your own
 title = "katiewav"
 languageCode = "en-us"
-baseURL = "https://example.org/"
-copyright = "© {year}"
+baseURL = "https://elegant-yonath-d58a9e.netlify.app/"
+copyright = "© {2021}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
