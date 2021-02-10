@@ -9,7 +9,7 @@ tags:
 math: false
 toc: true
 ---
-<img src="/images/2.6.21/memory.png" width="900" height="300" />
+<img src="/images/2.6.21/memory.png" width="900" height="275" />
 
 
 
@@ -33,7 +33,7 @@ The more fun/crucial part of this whole exercise (and a question I get often) is
 I'm a bit embarrassed to admit that I source probably ~60% of the articles I read from Twitter — the key to getting this to work for you is just by following people/outlets you admire. The next ~25% come from [Feedly](https://feedly.com), which is a platform that allows you to basically collate your favorite sources into one feed.
 
 
-<img src="/images/2.6.21/feedly.png" width="20" height="900" />
+<img src="/images/2.6.21/feedly.png" width="20" height="875" />
 
 
 
@@ -46,7 +46,7 @@ I've tried a handful of tools for content tracking including [Pocket](https://ge
 
 
 
-<img src="/images/2.6.21/toread.png" width="800" height="300" />
+<img src="/images/2.6.21/toread.png" width="800" height="275" />
 
 
 
